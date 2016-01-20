@@ -1,2 +1,3 @@
-# phone-book
-Single phone book application.
+# Phone Book application 
+
+Single phone book application developed using django + python.
